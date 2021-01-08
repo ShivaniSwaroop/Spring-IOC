@@ -3,7 +3,7 @@ public class ShivApp
 {
   public static void main(String[] args)
   {
-    BbCoach tCoach = new BbCoach();
+    Coach tCoach = new BbCoach();
     System.out.println(tCoach.getWorkout());
   }
 }
